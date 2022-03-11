@@ -1,8 +1,8 @@
 # Tool Image Classifier
 
 <p float ="left" align="center">
-  <img style="padding-right: 100px;" src="/tool_image_classification/readme_images/homepage1.png" height="300" >
-  <img style="padding-left: 100px;" src="/tool_image_classification/readme_images/iphone.gif" height="300" >
+  <img style="padding-right: 100px;" src="/readme_images/homepage1.png" height="300" >
+  <img style="padding-left: 100px;" src="/readme_images/iphone.gif" height="300" >
   <br>
   <em>Left: Desktop browser. Right: Iphone browser. </em>
   </br>
