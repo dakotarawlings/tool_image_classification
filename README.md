@@ -1,8 +1,8 @@
 # Tool Image Classifier
 
 <p float ="left" align="center">
-  <img style="padding-right: 100px;" src="/tool_image_classification/readme_images/homepage1.png" height="300" >
-  <img style="padding-left: 100px;" src="/tool_image_classification/readme_images/iphone.gif" height="300" >
+  <img style="padding-right: 100px;" src="/readme_images/homepage1.png" height="300" >
+  <img style="padding-left: 100px;" src="/readme_images/iphone.gif" height="300" >
   <br>
   <em>Left: Desktop browser. Right: Iphone browser. </em>
   </br>
@@ -11,8 +11,6 @@
 ### Web App Link: https://tool-image-classifier.herokuapp.com/
 
 ## Motivation
-* Tools often have technical names or similar sounding names that are difficult to remember (e.g. lug wrench vs. socket wrench vs. allen wrench vs box wrench etc.)
-* Many tools require a knowledge of the associated accessories/hardware that go along with the tool (e.g. what type of blades are compatible with a certain power saw)
 * A casual "DIYer" might not remember the names of all of their tools, making it difficult to order associated hardware and to know what each tool is for
 * This app could eventually serve to help someone identify what a tool is, what the tool does, and potentially the app could generate revenue by directing the user to order replacement parts/hardware for the tool online
 
