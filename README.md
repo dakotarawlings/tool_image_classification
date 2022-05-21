@@ -33,6 +33,13 @@
 
 ## Web Scraping and Data Analysis
 * Wrote a script to implement the Bing image search API to scrape a total of ~4000 images from the web for 10 different tool classes
+  <p align="center">
+  <img src="readme_images/category_bar_plot.png" width="400" >
+  <br>
+  <em>Number of images for each category in the training set </em>
+  </br>
+  </p>
+
 
 ## Model Development
 * Split the data into train and test sets (20% test) with the price as the target variable
