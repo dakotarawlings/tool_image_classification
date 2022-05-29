@@ -32,7 +32,7 @@
 **Languages:** python, SQLite, JavaScript, HTML, CSS
 
 ## Web Scraping and Data Analysis
-* Wrote a script to implement the Bing image search API to scrape a total of ~4000 images from the web for 10 different tool classes
+* Wrote a script to implement the Bing image search API to scrape a total of ~2000 images from the web for 10 different tool classes
   <p align="center">
   <img src="readme_images/category_bar_plot.png" width="600" >
   <br>
